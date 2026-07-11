@@ -1,44 +1,73 @@
-<h1 className="text-lg">
-  Hi 👋 I'm Manas Jha
-</h1>
+# Hi 👋 I'm Manas Jha
 
-💻 Frontend Developer (Student)
-🚀 Focused on building real-world web applications
-⚡ Completed **React + TypeScript** fundamentals
-🛒 Currently working on an **E-commerce Web App**
+💻 Frontend Developer | BCA Graduate  
+🚀 Building modern, responsive web applications with React & TypeScript  
+🎨 Passionate about UI/UX, clean design, and writing maintainable code  
+🤖 Using AI tools to speed up development, brainstorm ideas, debug issues, and improve workflows with deeper problem-solving  
+📚 Always learning new technologies and building real-world projects
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💡 Languages
-
-* HTML
-* CSS
-* JavaScript
-
-### ⚙️ Tools
-
-* Git
-* GitHub
-* VS Code
+- HTML
+- CSS
+- JavaScript
+- TypeScript
 
 ### ⚛️ Frameworks & Libraries
+- React
+- Tailwind CSS
 
-* React (TypeScript)
-* Tailwind CSS
+### 🧰 Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+- AI Development Tools (Google Antigravity, Codex, Claude)
 
 ---
 
-## 🚀 Projects
+## 🚀 What I'm Working On
 
-### 🔹 To-Do List App
+### 🛒 E-commerce Web App
+Building a modern e-commerce platform with:
+- Product listing & search
+- Shopping cart
+- Pagination
+- Responsive UI
+- React + TypeScript + Tailwind CSS
 
-A task manager built with React Ts focusing on DOM manipulation and state handling.
+### 📖 Learning
+- Advanced React patterns
+- State Management
+- API Integration
+- Performance Optimization
+- AI-assisted development workflows
 
-### 🔹 E-commerce Web App *(In Progress)*
+---
 
-Building a full-featured e-commerce platform with product listings, cart functionality, and modern UI using **React + TypeScript**.
+## 📂 Featured Projects
+
+### ✅ To-Do List App
+A simple task management application built with React and TypeScript to practice state management and component-based architecture.
+
+### 🌦️ Weather App
+A responsive weather application using external APIs to display real-time weather information.
+
+### 🎬 Movie Search App
+A movie search application that fetches data from an API and displays movie details with a clean user interface.
+
+---
+
+## 🎯 Goals
+
+- Build scalable and user-friendly web applications
+- Contribute to open-source projects
+- Learn backend development
+- Improve UI/UX design skills
+- Use AI to build smarter, faster, and more efficiently while understanding the logic behind every solution
 
 ---
 
