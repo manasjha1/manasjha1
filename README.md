@@ -3,7 +3,7 @@
 💻 Frontend Developer | BCA Graduate  
 🚀 Building modern, responsive web applications with React & TypeScript  
 🎨 Passionate about UI/UX, clean design, and writing maintainable code  
-🤖 Using AI tools to speed up development, brainstorm ideas, debug issues, and improve workflows with deeper problem-solving  
+🤖 Using AI tools like Google Antigravity, Codex, and Claude to speed up development, solve complex problems, and improve productivity while understanding the logic behind every solution  
 📚 Always learning new technologies and building real-world projects
 
 ---
@@ -25,55 +25,88 @@
 - GitHub
 - VS Code
 - Figma
-- AI Development Tools (Google Antigravity, Codex, Claude)
+- Google Antigravity
+- OpenAI Codex
+- Claude
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Currently Working On
 
 ### 🛒 E-commerce Web App
 Building a modern e-commerce platform with:
-- Product listing & search
-- Shopping cart
+- Product Listing
+- Product Search & Filtering
+- Shopping Cart
 - Pagination
-- Responsive UI
+- Responsive Design
 - React + TypeScript + Tailwind CSS
 
-### 📖 Learning
-- Advanced React patterns
+### 📖 Currently Learning
+- Advanced React
 - State Management
 - API Integration
 - Performance Optimization
-- AI-assisted development workflows
+- AI-assisted Development Workflows
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### ✅ To-Do List App
-A simple task management application built with React and TypeScript to practice state management and component-based architecture.
+## 🛒 Cart Handling App
 
-### 🌦️ Weather App
-A responsive weather application using external APIs to display real-time weather information.
+A modern React-based shopping cart application focused on clean UI and efficient state management.
 
-### 🎬 Movie Search App
-A movie search application that fetches data from an API and displays movie details with a clean user interface.
+### Features
+- 🛍️ Browse Products
+- 🔍 Search Products
+- ➕ Add & Remove Cart Items
+- 📄 Pagination
+- 📱 Fully Responsive
+- ⚡ Built with React + TypeScript + Tailwind CSS
+
+**🌐 Live Demo:**  
+https://cart-handling-iyo85i6bk-manas-projects-ea65a3a7.vercel.app/
+
+**💻 Source Code:**  
+((https://github.com/manasjha1/Cart-Handling-app))
+
+---
+
+## 🌦️ Weather App
+
+A responsive weather application that fetches real-time weather data from an external API and displays it with a clean, user-friendly interface.
+
+**💻 Source Code:**  
+(https://github.com/manasjha1/weather-app)
+
+---
+
+## 🎬 Movie Search App
+
+A movie search application that allows users to search movies using an API and view movie details with a responsive interface.
+
+---
+
+## ✅ To-Do List App
+
+A task management application built with React and TypeScript to practice component architecture and state management.
 
 ---
 
 ## 🎯 Goals
 
 - Build scalable and user-friendly web applications
-- Contribute to open-source projects
+- Master React and modern frontend technologies
 - Learn backend development
 - Improve UI/UX design skills
-- Use AI to build smarter, faster, and more efficiently while understanding the logic behind every solution
+- Contribute to open-source projects
+- Leverage AI to build smarter, faster, and more efficient applications
 
 ---
 
 ## 📫 Connect With Me
 
-📧 Email: [manasjha384@email.com](mailto:manasjha384@email.com)
-🔗 LinkedIn: [Manas Jha](https://www.linkedin.com/in/manas-jha-0310ac/)
+📧 Email: **manasjha384@email.com**
 
----
+🔗 LinkedIn: **https://www.linkedin.com/in/manas-jha-0310ac/**
