@@ -77,6 +77,16 @@ https://cart-handling-iyo85i6bk-manas-projects-ea65a3a7.vercel.app/
 
 A responsive weather application that fetches real-time weather data from an external API and displays it with a clean, user-friendly interface.
 
+### Features
+• Search weather by city 🌍
+• Real-time weather information 🌡️
+• Modern dark UI with a polished design ✨
+• Responsive layout for different screen sizes 📱💻
+• Smooth and intuitive user experience ⚡
+
+**🌐 Live Demo:**
+https://manasjha1.github.io/weather-app/
+
 **💻 Source Code:**  
 (https://github.com/manasjha1/weather-app)
 
@@ -91,6 +101,15 @@ A movie search application that allows users to search movies using an API and v
 ## ✅ To-Do List App
 
 A task management application built with React and TypeScript to practice component architecture and state management.
+
+
+The app starts with a simple interface showing no tasks. Users can add tasks using the input field, mark them as completed with a check button, and uncheck them to make them active again. There are filter buttons to view all tasks, only active tasks, or only completed tasks. Each task can be deleted individually, and there’s also a clear completed button to remove all completed tasks at once.
+
+**🌐 Live Demo:**
+https://todo-app-c31x-git-main-manas-projects-ea65a3a7.vercel.app/
+
+**💻 Source Code:**
+(https://github.com/manasjha1/Todo_app)
 
 ---
 
