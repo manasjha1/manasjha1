@@ -19,6 +19,7 @@
 ### ⚛️ Frameworks & Libraries
 - React
 - Tailwind CSS
+- React Router
 
 ### 🧰 Tools
 - Git
