@@ -83,7 +83,7 @@ https://github.com/manasjha1/manas-s-portfolio
 
 ---
 
-## 🛒 Cart Handling App
+## 🛒 HandBag
 
 A modern React-based shopping cart application focused on clean UI and efficient state management.
 
@@ -104,7 +104,7 @@ https://github.com/manasjha1/Cart-Handling-app
 
 ---
 
-## 🌦️ Weather App
+## 🌦️ SkyCast
 
 A responsive weather application that fetches real-time weather data from an external API and displays it with a clean, user-friendly interface.
 
@@ -124,7 +124,7 @@ https://github.com/manasjha1/weather-app
 
 ---
 
-## 🎬 Movie Search App
+## 🎬 Cinemax
 
 A movie search application that allows users to search movies using an API and view movie details with a responsive interface.
 
