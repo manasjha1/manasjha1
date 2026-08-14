@@ -128,6 +128,12 @@ https://github.com/manasjha1/weather-app
 
 A movie search application that allows users to search movies using an API and view movie details with a responsive interface.
 
+**🌐 Live Demo:**
+https://my-movie-search-app-smoky.vercel.app/
+
+**💻 Source Code:**
+https://github.com/manasjha1/my-movieSearch-app
+
 ---
 
 ## ✅ To-Do List App
