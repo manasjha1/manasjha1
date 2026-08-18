@@ -97,7 +97,7 @@ A modern React-based shopping cart application focused on clean UI and efficient
 * ⚡ Built with React + TypeScript + Tailwind CSS
 
 **🌐 Live Demo:**
-https://cart-handling-iyo85i6bk-manas-projects-ea65a3a7.vercel.app/
+https://cart-handling-app-git-master-manas-projects-ea65a3a7.vercel.app/
 
 **💻 Source Code:**
 https://github.com/manasjha1/Cart-Handling-app
