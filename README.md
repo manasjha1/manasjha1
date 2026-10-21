@@ -37,29 +37,6 @@
 
 ---
 
-## 🚀 Currently Working On
-
-### 🛒 E-commerce Web App
-
-Building a modern e-commerce platform with:
-
-* Product Listing
-* Product Search & Filtering
-* Shopping Cart
-* Pagination
-* Responsive Design
-* React + TypeScript + Tailwind CSS
-
-### 📖 Currently Learning
-
-* Advanced React
-* State Management
-* API Integration
-* Performance Optimization
-* AI-assisted Development Workflows
-
----
-
 # 📂 Featured Projects
 
 ## 🌐 Personal Portfolio
