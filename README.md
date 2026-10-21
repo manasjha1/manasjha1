@@ -3,7 +3,7 @@
 💻 Frontend Developer | BCA Graduate
 🚀 Building modern, responsive web applications with React & TypeScript
 🎨 Passionate about UI/UX, clean design, and writing maintainable code
-🤖 Using AI tools like Google Antigravity, Codex, and Claude to speed up development while understanding the logic behind every solution
+🤖 Using AI tools like Google Antigravity, Codex, and Cursor to speed up development while understanding the logic behind every solution
 📚 Always learning new technologies and building real-world projects
 
 🌐 **Portfolio:** https://manasjha1.github.io/manas-s-portfolio/
